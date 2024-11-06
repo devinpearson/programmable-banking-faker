@@ -1,1 +1,1 @@
-export { add } from './utils.js';
+export { Investec } from './utils.js';
