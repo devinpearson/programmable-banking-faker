@@ -1,5 +1,11 @@
 # programmable-banking-faker
 
+## 1.0.3
+
+### Patch Changes
+
+- 1e5077f: Updated readme
+
 ## 1.0.2
 
 ### Patch Changes
