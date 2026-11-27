@@ -34,7 +34,7 @@
   "type": "module",
   "license": "MIT",
   "devDependencies": {
-    "@arethetypeswrong/cli": "^0.16.4",
+    "@arethetypeswrong/cli": "^0.18.5",
     "@changesets/cli": "^2.27.9",
     "@types/faker": "^6.6.8",
     "prettier": "^3.3.3",
@@ -42,7 +42,7 @@
     "vitest": "^4.1.10"
   },
   "dependencies": {
-    "@faker-js/faker": "^9.2.0",
+    "@faker-js/faker": "^10.6.0",
     "dayjs": "^1.11.13"
   }
 }
